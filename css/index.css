@@ -82,6 +82,7 @@ body{
   #homeVid{
     text-align: center;
     width: 100vw;
+    height:100vh;
   }
   
   #homePage{
@@ -164,7 +165,7 @@ body{
   
   #sourcesPage{
     width:60vw;
-    height: 130vh;
+    height: 132vh;
     margin: auto;
     padding: 30px;
     background-color: rgba(255, 200, 100, 0.8);
@@ -206,6 +207,7 @@ body{
   }
   
   #rightText{
+    text-align: left;
     font-size: 1.5em;
   }
   
